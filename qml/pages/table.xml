@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Table name="БЖУ">
+<Category>
+<nameCat>Мука, крупа, хлеб</nameCat>
+<imgCat>../pages/bred.png</imgCat>
+<Item>
+<name>Мука пшеничная. в.с.</name>
+<proteins>10.3</proteins>
+<fats>1.08</fats>
+<carbohydrates>69</carbohydrates>
+<calorie>334</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>
+<Item>
+<name>Мука ржаная</name>
+<proteins>10.6</proteins>
+<fats>1.3</fats>
+<carbohydrates>67.4</carbohydrates>
+<calorie>331</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>
+    	
+<Item>	  	
+<name>	Мука ржаная сеяная	</name>
+<proteins>	6.9	</proteins>
+<fats>	1.39	</fats>
+<carbohydrates>	64.3	</carbohydrates>
+<calorie>	304	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	    	
+<Item>	  	
+<name>	Мука ржаная обойная	</name>
+<proteins>	10.7	</proteins>
+<fats>	1.94	</fats>
+<carbohydrates>	56.8	</carbohydrates>
+<calorie>	293	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	    	
+<Item>	  	
+<name>	Крупа пшенная	</name>
+<proteins>	11.5	</proteins>
+<fats>	3.3	</fats>
+<carbohydrates>	67.2	</carbohydrates>
+<calorie>	348	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа гречневая ядрица	</name>
+<proteins>	12.6	</proteins>
+<fats>	3.26	</fats>
+<carbohydrates>	54.3	</carbohydrates>
+<calorie>	335	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа рисовая	</name>
+<proteins>	7	</proteins>
+<fats>	1	</fats>
+<carbohydrates>	73.2	</carbohydrates>
+<calorie>	330	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа гречневая продел	</name>
+<proteins>	12.6	</proteins>
+<fats>	3.26	</fats>
+<carbohydrates>	63.5	</carbohydrates>
+<calorie>	329	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа манная	</name>
+<proteins>	10.3	</proteins>
+<fats>	1	</fats>
+<carbohydrates>	67.7	</carbohydrates>
+<calorie>	328	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа ячневая	</name>
+<proteins>	10	</proteins>
+<fats>	1.3	</fats>
+<carbohydrates>	66.31	</carbohydrates>
+<calorie>	324	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа перловая	</name>
+<proteins>	9.3	</proteins>
+<fats>	1.13	</fats>
+<carbohydrates>	67.5	</carbohydrates>
+<calorie>	320	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа "Геркулес"	</name>
+<proteins>	11	</proteins>
+<fats>	6.2	</fats>
+<carbohydrates>	49.24	</carbohydrates>
+<calorie>	305	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крупа овсяная	</name>
+<proteins>	11	</proteins>
+<fats>	6.1	</fats>
+<carbohydrates>	49.94	</carbohydrates>
+<calorie>	303	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Хлеб пшеничный формовой. 1 с.	</name>
+<proteins>	7.63	</proteins>
+<fats>	0.86	</fats>
+<carbohydrates>	50.15	</carbohydrates>
+<calorie>	239.06	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Хлеб пшеничный. в.с.	</name>
+<proteins>	7.59	</proteins>
+<fats>	0.81	</fats>
+<carbohydrates>	50.15	</carbohydrates>
+<calorie>	238	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Хлеб столовый подовый	</name>
+<proteins>	7.08	</proteins>
+<fats>	1.17	</fats>
+<carbohydrates>	50.07	</carbohydrates>
+<calorie>	206	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Хлеб пшеничный зерновой	</name>
+<proteins>	8.13	</proteins>
+<fats>	1.38	</fats>
+<carbohydrates>	45.62	</carbohydrates>
+<calorie>	195	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Хлеб ржаной формовой	</name>
+<proteins>	6.62	</proteins>
+<fats>	1.2	</fats>
+<carbohydrates>	41.82	</carbohydrates>
+<calorie>	181	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	  	
+<name>	Печенье сахарное	</name>
+<proteins>	7.5	</proteins>
+<fats>	11.8	</fats>
+<carbohydrates>	74.4	</carbohydrates>
+<calorie>	436	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сухари сливочные	</name>
+<proteins>	8.5	</proteins>
+<fats>	10.8	</fats>
+<carbohydrates>	69.63	</carbohydrates>
+<calorie>	398	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Макароны. в.с.	</name>
+<proteins>	10.4	</proteins>
+<fats>	1.13	</fats>
+<carbohydrates>	74.9	</carbohydrates>
+<calorie>	337	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Булка сдобная	</name>
+<proteins>	7.61	</proteins>
+<fats>	5.28	</fats>
+<carbohydrates>	56.8	</carbohydrates>
+<calorie>	295	</calorie>
+  <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Батон	</name>
+<proteins>	7.7	</proteins>
+<fats>	3.02	</fats>
+<carbohydrates>	53.33	</carbohydrates>
+<calorie>	235	</calorie> <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+<Item>	 	
+<name>	Дрожжи	</name>
+<proteins>	12.7	</proteins>
+<fats>	2.73	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	75.35	</calorie> <cat>Мука, крупа, хлеб</cat>
+</Item>	 	
+</Category>
+<Category>
+<nameCat>Мясо, птица</nameCat>
+<imgCat>../pages/meat.png</imgCat>
+  <Item>	 	
+<name>	Свинина жирная	</name>
+<proteins>	11.7	</proteins>
+<fats>	33.3	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	491	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	  	
+<name>	Говядина. 1 кат.	</name>
+<proteins>	18.5	</proteins>
+<fats>	16	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	218	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Говядина. 2 кат.	</name>
+<proteins>	20	</proteins>
+<fats>	9.8	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	168	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Баранина. 1 кат.	</name>
+<proteins>	15.6	</proteins>
+<fats>	16.3	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	209	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Баранина. 2 кат.	</name>
+<proteins>	19.8	</proteins>
+<fats>	9.6	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	166.8	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Конина. 1 кат.	</name>
+<proteins>	19.5	</proteins>
+<fats>	8.3	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	167	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Мясо кроликов	</name>
+<proteins>	21.1	</proteins>
+<fats>	15	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	183	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Мозги говяжьи	</name>
+<proteins>	11.7	</proteins>
+<fats>	8.6	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	124	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Печень говяжья	</name>
+<proteins>	17.9	</proteins>
+<fats>	3.7	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	105	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Легкое говяжье	</name>
+<proteins>	15.2	</proteins>
+<fats>	4.7	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	103	</calorie> <cat>Мясо, птица</cat>
+</Item>	  	
+<Item>	 	
+<name>	Почки говяжьи	</name>
+<proteins>	17.9	</proteins>
+<fats>	2.8	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	86	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сердце говяжье	</name>
+<proteins>	16	</proteins>
+<fats>	2.8	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	86	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Колбаса любительская	</name>
+<proteins>	17.3	</proteins>
+<fats>	39	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	420	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Колбаса полукопченая	</name>
+<proteins>	16.5	</proteins>
+<fats>	63.6	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	376	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сосиски молочные	</name>
+<proteins>	11	</proteins>
+<fats>	22.8	</fats>
+<carbohydrates>	1.6	</carbohydrates>
+<calorie>	266	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Колбаса докторская	</name>
+<proteins>	12.8	</proteins>
+<fats>	22.2	</fats>
+<carbohydrates>	1.5	</carbohydrates>
+<calorie>	257	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Колбаса вар. отдельная	</name>
+<proteins>	11	</proteins>
+<fats>	21	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	240	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Свинина тушеная	</name>
+<proteins>	14.9	</proteins>
+<fats>	32.2	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	349	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Говядина тушеная	</name>
+<proteins>	16.8	</proteins>
+<fats>	16	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	220	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Куры. 1 кат.	</name>
+<proteins>	18.2	</proteins>
+<fats>	18.4	</fats>
+<carbohydrates>	0.7	</carbohydrates>
+<calorie>	241	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Куры. 2 кат.	</name>
+<proteins>	21.1	</proteins>
+<fats>	8.2	</fats>
+<carbohydrates>	0.6	</carbohydrates>
+<calorie>	161	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+<Item>	 	
+<name>	Яйцо куриное	</name>
+<proteins>	12.7	</proteins>
+<fats>	11.5	</fats>
+<carbohydrates>	0.7	</carbohydrates>
+<calorie>	157	</calorie> <cat>Мясо, птица</cat>
+</Item>	 	
+</Category>
+<Category>
+<nameCat>Рыба, морепродукты</nameCat>
+  <imgCat>../pages/fish.png</imgCat>
+<Item>	 	
+<name>	Печень трески (консервы в масле)	</name>
+<proteins>	4.2	</proteins>
+<fats>	65.7	</fats>
+<carbohydrates>	1.2	</carbohydrates>
+<calorie>	613	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Треска (печень)	</name>
+<proteins>	16	</proteins>
+<fats>	0.6	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	136	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Ставрида	</name>
+<proteins>	18.5	</proteins>
+<fats>	4.5	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	114	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Кальмар	</name>
+<proteins>	18	</proteins>
+<fats>	4.2	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	110	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Паста "Океан"	</name>
+<proteins>	13.6	</proteins>
+<fats>	4.2	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	92	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	 	
+<Item>	  	
+<name>	Сардины в масле (консервы)	</name>
+<proteins>	16	</proteins>
+<fats>	17.7	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	223	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	  	
+<Item>	  	
+<name>	Скумбрия бланшир. в масле	</name>
+<proteins>	13.1	</proteins>
+<fats>	25.1	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	278	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Камбала в томате (консервы)	</name>
+<proteins>	12.6	</proteins>
+<fats>	5.4	</fats>
+<carbohydrates>	6.3	</carbohydrates>
+<calorie>	125	</calorie> <cat>Рыба, морепродукты</cat>
+</Item>	 	
+</Category>
+<Category>
+<nameCat>Молочные продукты</nameCat>
+  <imgCat>../pages/milk.png</imgCat>
+<Item>		
+<name>	Сливки сухие	</name>
+<proteins>	23	</proteins>
+<fats>	42.7	</fats>
+<carbohydrates>	26.38	</carbohydrates>
+<calorie>	579	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Бифидолакт	</name>
+<proteins>	17.5	</proteins>
+<fats>	24	</fats>
+<carbohydrates>	49.38	</carbohydrates>
+<calorie>	480	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Молоко сухое цельное	</name>
+<proteins>	26	</proteins>
+<fats>	25	</fats>
+<carbohydrates>	37.5	</carbohydrates>
+<calorie>	476	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Молоко сухое обезжиренное	</name>
+<proteins>	37.9	</proteins>
+<fats>	1	</fats>
+<carbohydrates>	49.3	</carbohydrates>
+<calorie>	350	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Молоко сгущенное с сахаром	</name>
+<proteins>	7.2	</proteins>
+<fats>	8.5	</fats>
+<carbohydrates>	56	</carbohydrates>
+<calorie>	320	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Молоко сгущенное стерилизованное	</name>
+<proteins>	7	</proteins>
+<fats>	8.3	</fats>
+<carbohydrates>	9.5	</carbohydrates>
+<calorie>	140	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Молоко коровье	</name>
+<proteins>	3.2	</proteins>
+<fats>	3.6	</fats>
+<carbohydrates>	5.16	</carbohydrates>
+<calorie>	61	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сметана. 30% жирности	</name>
+<proteins>	2.4	</proteins>
+<fats>	30	</fats>
+<carbohydrates>	3.18	</carbohydrates>
+<calorie>	294	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Творог жирный	</name>
+<proteins>	14	</proteins>
+<fats>	18	</fats>
+<carbohydrates>	2.85	</carbohydrates>
+<calorie>	232	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сливки. 20% жирности	</name>
+<proteins>	2.8	</proteins>
+<fats>	20	</fats>
+<carbohydrates>	4.5	</carbohydrates>
+<calorie>	206	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сливки. 10% жирности	</name>
+<proteins>	2.8	</proteins>
+<fats>	10	</fats>
+<carbohydrates>	4.8	</carbohydrates>
+<calorie>	118	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Простокваша	</name>
+<proteins>	2.8	</proteins>
+<fats>	3.2	</fats>
+<carbohydrates>	4.18	</carbohydrates>
+<calorie>	58	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Ацидофилин	</name>
+<proteins>	2.8	</proteins>
+<fats>	3.2	</fats>
+<carbohydrates>	3.88	</carbohydrates>
+<calorie>	57	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Кефир жирный	</name>
+<proteins>	2.8	</proteins>
+<fats>	3.2	</fats>
+<carbohydrates>	3.61	</carbohydrates>
+<calorie>	56	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр "Чеддер"	</name>
+<proteins>	23.5	</proteins>
+<fats>	30.5	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	379	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр "Российский"	</name>
+<proteins>	23	</proteins>
+<fats>	29	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	360	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр "Голландский"	</name>
+<proteins>	26	</proteins>
+<fats>	26.8	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	352	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр "Пошехонский"	</name>
+<proteins>	26	</proteins>
+<fats>	26.5	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	350	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр плавленый	</name>
+<proteins>	22	</proteins>
+<fats>	27	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	340	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр "Рокфор"	</name>
+<proteins>	20	</proteins>
+<fats>	28	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	337	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр плавленый "Сказка"	</name>
+<proteins>	8.4	</proteins>
+<fats>	18	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	304	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Брынза	</name>
+<proteins>	17.9	</proteins>
+<fats>	20.1	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	260	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сыр "Прибалтийский"	</name>
+<proteins>	30	</proteins>
+<fats>	29	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	209	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Масло сливочное несоленое	</name>
+<proteins>	0.5	</proteins>
+<fats>	82.5	</fats>
+<carbohydrates>	0.8	</carbohydrates>
+<calorie>	748	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Масло сливочное диет.	</name>
+<proteins>	0.7	</proteins>
+<fats>	75	</fats>
+<carbohydrates>	1.7	</carbohydrates>
+<calorie>	684.6	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Масло крестьянское несол.	</name>
+<proteins>	0.8	</proteins>
+<fats>	72.5	</fats>
+<carbohydrates>	1.3	</carbohydrates>
+<calorie>	661	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	  	
+<name>	Масло бутербродное	</name>
+<proteins>	2.5	</proteins>
+<fats>	61.5	</fats>
+<carbohydrates>	1.7	</carbohydrates>
+<calorie>	566	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Мороженое сливочное	</name>
+<proteins>	3.3	</proteins>
+<fats>	10	</fats>
+<carbohydrates>	20.18	</carbohydrates>
+<calorie>	179	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Маргарин "Экстра"	</name>
+<proteins>	0.5	</proteins>
+<fats>	82	</fats>
+<carbohydrates>	1	</carbohydrates>
+<calorie>	744	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Маргарин молочный	</name>
+<proteins>	0.3	</proteins>
+<fats>	82	</fats>
+<carbohydrates>	1	</carbohydrates>
+<calorie>	743	</calorie> <cat>Молочные продукты</cat>
+</Item>	  	
+<Item>	  	
+<name>	Маргарин сливочный	</name>
+<proteins>	0.3	</proteins>
+<fats>	82	</fats>
+<carbohydrates>	1	</carbohydrates>
+<calorie>	743	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Маргарин "Солнечный"	</name>
+<proteins>	0.3	</proteins>
+<fats>	72	</fats>
+<carbohydrates>	0.9	</carbohydrates>
+<calorie>	653	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Жир кулинарный "Прима"	</name>
+<proteins>	0	</proteins>
+<fats>	99.7	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	897	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Жир кондитерский	</name>
+<proteins>	0	</proteins>
+<fats>	99.7	</fats>
+<carbohydrates>	0	</carbohydrates>
+<calorie>	897	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Майонез столовый молочный	</name>
+<proteins>	2.4	</proteins>
+<fats>	70	</fats>
+<carbohydrates>	3.9	</carbohydrates>
+<calorie>	627	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Майонез "Провансаль"	</name>
+<proteins>	2.8	</proteins>
+<fats>	70	</fats>
+<carbohydrates>	2.6	</carbohydrates>
+<calorie>	624	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+<Item>	 	
+<name>	Майонез "Диабетический"	</name>
+<proteins>	2.9	</proteins>
+<fats>	70	</fats>
+<carbohydrates>	2.6	</carbohydrates>
+<calorie>	624	</calorie> <cat>Молочные продукты</cat>
+</Item>	 	
+</Category>
+<Category>
+<nameCat>Овощи</nameCat>
+  <imgCat>../pages/vedg.png</imgCat>
+<Item>	 	
+<name>	Горох	</name>
+<proteins>	20.5	</proteins>
+<fats>	2.04	</fats>
+<carbohydrates>	64.01	</carbohydrates>
+<calorie>	298	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Горошек зеленый	</name>
+<proteins>	5	</proteins>
+<fats>	0.2	</fats>
+<carbohydrates>	13.8	</carbohydrates>
+<calorie>	73	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Томатная паста	</name>
+<proteins>	4.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	20.1	</carbohydrates>
+<calorie>	99	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Томаты грунтовые	</name>
+<proteins>	1.1	</proteins>
+<fats>	0.2	</fats>
+<carbohydrates>	5	</carbohydrates>
+<calorie>	23	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Картофель	</name>
+<proteins>	2	</proteins>
+<fats>	0.4	</fats>
+<carbohydrates>	18.1	</carbohydrates>
+<calorie>	80	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Баклажаны	</name>
+<proteins>	1.2	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	6.9	</carbohydrates>
+<calorie>	24	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Капуста брюссельская	</name>
+<proteins>	4.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8	</carbohydrates>
+<calorie>	43	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Капуста кольраби	</name>
+<proteins>	2.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	11.7	</carbohydrates>
+<calorie>	42	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Капуста цветная	</name>
+<proteins>	2.5	</proteins>
+<fats>	0.3	</fats>
+<carbohydrates>	5.4	</carbohydrates>
+<calorie>	30	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Капуста белокочанная ранняя	</name>
+<proteins>	1.8	</proteins>
+<fats>	0.2	</fats>
+<carbohydrates>	6.8	</carbohydrates>
+<calorie>	27	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Капуста белокочанная поздняя	</name>
+<proteins>	1.8	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	6.8	</carbohydrates>
+<calorie>	27	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Капуста краснокочанная	</name>
+<proteins>	0.6	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	7.6	</carbohydrates>
+<calorie>	24	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Капуста квашеная	</name>
+<proteins>	1.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	3.2	</carbohydrates>
+<calorie>	19	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Лук репчатый	</name>
+<proteins>	1.4	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	10.4	</carbohydrates>
+<calorie>	41	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Лук зеленый	</name>
+<proteins>	1.3	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	5.2	</carbohydrates>
+<calorie>	19	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Чеснок	</name>
+<proteins>	6.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	6	</carbohydrates>
+<calorie>	46	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Морковь красная	</name>
+<proteins>	1.3	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	9.3	</carbohydrates>
+<calorie>	34	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Морковь желтая	</name>
+<proteins>	1.3	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	7.9	</carbohydrates>
+<calorie>	30	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Огурцы грунтовые	</name>
+<proteins>	0.8	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	3.8	</carbohydrates>
+<calorie>	14	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Огурцы парниковые	</name>
+<proteins>	0.7	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	2.7	</carbohydrates>
+<calorie>	11	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Огурцы соленые	</name>
+<proteins>	0.8	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	2.3	</carbohydrates>
+<calorie>	13	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Перец сладкий красный	</name>
+<proteins>	1.3	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	7.2	</carbohydrates>
+<calorie>	27	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Перец сладкий зеленый	</name>
+<proteins>	1.3	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	7.2	</carbohydrates>
+<calorie>	26	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Редька	</name>
+<proteins>	1.9	</proteins>
+<fats>	0.2	</fats>
+<carbohydrates>	8	</carbohydrates>
+<calorie>	35	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Репа	</name>
+<proteins>	1.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	3.1	</carbohydrates>
+<calorie>	27	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Редис	</name>
+<proteins>	1.2	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	3.8	</carbohydrates>
+<calorie>	21	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Салат	</name>
+<proteins>	1.5	</proteins>
+<fats>	0.2	</fats>
+<carbohydrates>	3.1	</carbohydrates>
+<calorie>	17	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Свекла	</name>
+<proteins>	1.5	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	12.8	</carbohydrates>
+<calorie>	42	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Тыква	</name>
+<proteins>	1	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	5.9	</carbohydrates>
+<calorie>	25	</calorie> <cat>Овощи</cat>
+</Item>	 	
+<Item>	 	
+<name>	Шпинат	</name>
+<proteins>	2.9	</proteins>
+<fats>	0.3	</fats>
+<carbohydrates>	2.5	</carbohydrates>
+<calorie>	22	</calorie> <cat>Овощи</cat>
+</Item>
+  </Category>
+<Category>
+<nameCat>Фрукты, ягоды</nameCat>
+  <imgCat>../pages/fruit.png</imgCat>
+<Item>	 	
+<name>	Абрикосы	</name>
+<proteins>	0.9	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	10.5	</carbohydrates>
+<calorie>	46	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Айва	</name>
+<proteins>	0.6	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8.9	</carbohydrates>
+<calorie>	38	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Алыча	</name>
+<proteins>	0.2	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	7.4	</carbohydrates>
+<calorie>	34	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Ананас	</name>
+<proteins>	0.4	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	11.8	</carbohydrates>
+<calorie>	48	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Бананы	</name>
+<proteins>	1.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	22.4	</carbohydrates>
+<calorie>	91	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Вишня	</name>
+<proteins>	0.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	11.3	</carbohydrates>
+<calorie>	49	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Гранат	</name>
+<proteins>	0.9	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	11.8	</carbohydrates>
+<calorie>	52	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Груша	</name>
+<proteins>	0.4	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	10.7	</carbohydrates>
+<calorie>	42	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Инжир	</name>
+<proteins>	0.7	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	13.9	</carbohydrates>
+<calorie>	56	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Кизил	</name>
+<proteins>	1	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	9.7	</carbohydrates>
+<calorie>	45	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Персики	</name>
+<proteins>	0.9	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	10.4	</carbohydrates>
+<calorie>	44	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Рябина садовая	</name>
+<proteins>	1.4	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	12.5	</carbohydrates>
+<calorie>	58	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Рябина черноплодная	</name>
+<proteins>	1.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	12	</carbohydrates>
+<calorie>	54	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Слива садовая	</name>
+<proteins>	0.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	9.9	</carbohydrates>
+<calorie>	43	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Финики	</name>
+<proteins>	2.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	72.1	</carbohydrates>
+<calorie>	281	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Хурма	</name>
+<proteins>	0.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	15.9	</carbohydrates>
+<calorie>	62	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Черешня	</name>
+<proteins>	1.1	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	12.3	</carbohydrates>
+<calorie>	52	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Шелковица	</name>
+<proteins>	0.7	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	12.7	</carbohydrates>
+<calorie>	53	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Яблоки	</name>
+<proteins>	0.4	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	11.3	</carbohydrates>
+<calorie>	46	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Апельсин	</name>
+<proteins>	0.9	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8.4	</carbohydrates>
+<calorie>	38	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Грейпфрут	</name>
+<proteins>	0.9	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	7.3	</carbohydrates>
+<calorie>	35	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Лимон	</name>
+<proteins>	0.9	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	3.6	</carbohydrates>
+<calorie>	31	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Мандарин	</name>
+<proteins>	0.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8.6	</carbohydrates>
+<calorie>	38	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Брусника	</name>
+<proteins>	0.7	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8.6	</carbohydrates>
+<calorie>	40	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Виноград	</name>
+<proteins>	0.4	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	17.5	</carbohydrates>
+<calorie>	69	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Голубика	</name>
+<proteins>	1	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	7.7	</carbohydrates>
+<calorie>	37	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Ежевика	</name>
+<proteins>	2	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	5.3	</carbohydrates>
+<calorie>	33	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Земляника	</name>
+<proteins>	1.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8.1	</carbohydrates>
+<calorie>	41	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Клюква	</name>
+<proteins>	0.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	4.8	</carbohydrates>
+<calorie>	28	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Крыжовник	</name>
+<proteins>	0.7	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	9.9	</carbohydrates>
+<calorie>	44	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Малина	</name>
+<proteins>	0.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	9	</carbohydrates>
+<calorie>	41	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Морошка	</name>
+<proteins>	0.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	6.8	</carbohydrates>
+<calorie>	31	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Облепиха	</name>
+<proteins>	0.9	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	5.5	</carbohydrates>
+<calorie>	30	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Смородина белая	</name>
+<proteins>	0.3	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8.7	</carbohydrates>
+<calorie>	39	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Смородина красная	</name>
+<proteins>	0.6	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8	</carbohydrates>
+<calorie>	38	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Смородина черная	</name>
+<proteins>	1	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8	</carbohydrates>
+<calorie>	40	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Черника	</name>
+<proteins>	1.1	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	8.6	</carbohydrates>
+<calorie>	40	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Шиповник свежий	</name>
+<proteins>	1.6	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	24	</carbohydrates>
+<calorie>	101	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+<Item>	 	
+<name>	Шиповник сушеный	</name>
+<proteins>	4	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	60	</carbohydrates>
+<calorie>	253	</calorie> <cat>Фрукты, ягоды</cat>
+</Item>	 	
+
+</Category>
+<Category>
+<nameCat>Сладости</nameCat>
+  <imgCat>../pages/sweet.png</imgCat>
+<Item>	 	
+<name>	Мед	</name>
+<proteins>	0.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	80.3	</carbohydrates>
+<calorie>	308	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Драже фруктовое	</name>
+<proteins>	3.7	</proteins>
+<fats>	10.2	</fats>
+<carbohydrates>	73.1	</carbohydrates>
+<calorie>	384	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Зефир	</name>
+<proteins>	0.8	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	78.3	</carbohydrates>
+<calorie>	299	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Ирис	</name>
+<proteins>	3.3	</proteins>
+<fats>	7.5	</fats>
+<carbohydrates>	81.8	</carbohydrates>
+<calorie>	387	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Мармелад	</name>
+<proteins>	0	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	77.7	</carbohydrates>
+<calorie>	296	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Карамель	</name>
+<proteins>	0	</proteins>
+<fats>	0.1	</fats>
+<carbohydrates>	77.7	</carbohydrates>
+<calorie>	296	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Конфеты. глаз-ые шоколадом	</name>
+<proteins>	2.9	</proteins>
+<fats>	10.7	</fats>
+<carbohydrates>	76.6	</carbohydrates>
+<calorie>	396	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Пастила	</name>
+<proteins>	0.5	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	80.4	</carbohydrates>
+<calorie>	305	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Сахар	</name>
+<proteins>	0.3	</proteins>
+<fats>	0	</fats>
+<carbohydrates>	99.5	</carbohydrates>
+<calorie>	374	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Халва тахинная	</name>
+<proteins>	12.7	</proteins>
+<fats>	29.9	</fats>
+<carbohydrates>	50.6	</carbohydrates>
+<calorie>	510	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Халва подсолнечная	</name>
+<proteins>	11.6	</proteins>
+<fats>	29.7	</fats>
+<carbohydrates>	54	</carbohydrates>
+<calorie>	516	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Шоколад темный	</name>
+<proteins>	5.4	</proteins>
+<fats>	35.3	</fats>
+<carbohydrates>	52.6	</carbohydrates>
+<calorie>	540	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Шоколад молочный	</name>
+<proteins>	6.9	</proteins>
+<fats>	35.7	</fats>
+<carbohydrates>	52.4	</carbohydrates>
+<calorie>	547	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Вафли с фр-ми начинками	</name>
+<proteins>	3.2	</proteins>
+<fats>	2.8	</fats>
+<carbohydrates>	80.1	</carbohydrates>
+<calorie>	342	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Вафли с жировыми начинками	</name>
+<proteins>	3.4	</proteins>
+<fats>	30.2	</fats>
+<carbohydrates>	64.7	</carbohydrates>
+<calorie>	530	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Пирожное слоеное с кремом	</name>
+<proteins>	5.4	</proteins>
+<fats>	38.6	</fats>
+<carbohydrates>	46.4	</carbohydrates>
+<calorie>	544	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Пирожное слоеное с яблоком	</name>
+<proteins>	5.7	</proteins>
+<fats>	25.6	</fats>
+<carbohydrates>	52.7	</carbohydrates>
+<calorie>	454	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Пирожное бисквитное	</name>
+<proteins>	4.7	</proteins>
+<fats>	9.3	</fats>
+<carbohydrates>	84.4	</carbohydrates>
+<calorie>	344	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Пряники	</name>
+<proteins>	4.8	</proteins>
+<fats>	2.8	</fats>
+<carbohydrates>	77.7	</carbohydrates>
+<calorie>	336	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Торт бисквитный	</name>
+<proteins>	4.7	</proteins>
+<fats>	20	</fats>
+<carbohydrates>	49.8	</carbohydrates>
+<calorie>	386	</calorie> <cat>Сладости</cat>
+</Item>	 	
+<Item>	 	
+<name>	Торт миндальный	</name>
+<proteins>	6.6	</proteins>
+<fats>	35.8	</fats>
+<carbohydrates>	46.8	</carbohydrates>
+<calorie>	524	</calorie> <cat>Сладости</cat>
+</Item>	 	
+
+</Category>
+</Table>
